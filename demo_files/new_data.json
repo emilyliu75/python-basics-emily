@@ -1,1 +1,1 @@
-{"name": "Alice", "age": 24, "address": {"street": "123 Fake St", "city": "Springfield"}}
+[{"name": "alice", "age": 24, "address": {"street": "123 Fake st", "city": "springfield"}}, {"name": "lily", "age": 25, "address": {"street": "21 Fake st", "city": "springfield"}}]
